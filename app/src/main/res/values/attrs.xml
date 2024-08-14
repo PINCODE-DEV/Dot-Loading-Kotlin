@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Loading">
+        <attr name="dots_color" format="color" />
+        <attr name="dots_count" format="integer" />
+        <attr name="dots_duration" format="integer"/>
+        <attr name="dots_size" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleView">
+        <attr name="circleRadius" format="dimension" />
+        <attr name="circleColor" format="color" />
+        <attr name="circleDrawOnlystroke" format="boolean" />
+        <attr name="circleStrokeWidth" format="dimension" />
+    </declare-styleable>
+</resources>
